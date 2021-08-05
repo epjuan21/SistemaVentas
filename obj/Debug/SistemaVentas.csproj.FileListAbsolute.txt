@@ -4,16 +4,15 @@ C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\SistemaVentas.pdb
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\linq2db.dll
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\Models.dll
-C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\ViewModels.dll
+C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\Models.pdb
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\Models.dll.config
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\ViewModels.pdb
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\ViewModels.dll.config
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\linq2db.xml
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\USER-02\source\repos\SistemaVentas\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\USER-02\source\repos\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
 C:\Users\USER-02\source\repos\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
